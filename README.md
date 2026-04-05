@@ -10,6 +10,9 @@
 -  **Hobbies :** Video Games :video_game: | Music :headphones:
 -  **Pronouns :** He/Him/His :innocent:
 
+-  Many of my projects are for schoolwork and are thus not public. If you have questions please feel free to email me.
+-  Cloud Computing, Compilers, Parallel Programming, GPU Programming, Quantum Computer Systems. 
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### ✨ Visitors 
 
